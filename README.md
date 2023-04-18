@@ -1,3 +1,7 @@
+# 아키텍처
+<img width="1156" alt="스크린샷 2023-04-18 오후 5 53 58" src="https://user-images.githubusercontent.com/24227472/232726501-12aaf720-daed-4960-801f-aef89ced61a3.png">
+
+
 # 프로젝트 설명
 1. checkout
 - 이커머스에서 상품 주문 및 결제에 대한 도메인 간소화
